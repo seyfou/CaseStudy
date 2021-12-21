@@ -1,0 +1,162 @@
+[
+  {
+    "CompanyName": "regako GmbH, in Liquidation",
+    "RegisterNumber": "Register number: CH-036.4.046.335-1\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Production and processing of wooden goods\n                  ",
+    "Status": "deleted",
+    "Adress": "Hünigenstrasse 133510 Konolfingen\n                                  "
+  },
+  {
+    "CompanyName": "Adamas-Lux GmbH in Liquidation",
+    "RegisterNumber": "Register number: CH-020.4.059.117-7\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Trading with various goods\n                  ",
+    "Status": "deleted",
+    "Adress": "Austrasse 498045 Zürich\n                                  "
+  },
+  {
+    "CompanyName": "Global Sport Events Marketing GmbH in Liquidation",
+    "RegisterNumber": "Register number: CH-100.4.798.757-6\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Other booking services\n                  ",
+    "Status": "in liquidation",
+    "Adress": "ohne Domizil6045 Meggen\n                                  "
+  },
+  {
+    "CompanyName": "POLARIX SA en liquidation",
+    "RegisterNumber": "Register number: CH-550.1.079.884-4\n                  ",
+    "LegalForm": "Legal form: Company limited by shares (AG)",
+    "Sector": "Sector: Trading in IT and communications products\n                  ",
+    "Status": "in liquidation",
+    "Adress": "Rue de la Vernie 121023 Crissier\n                                  "
+  },
+  {
+    "CompanyName": "JACS GmbH",
+    "RegisterNumber": "Register number: CH-020.4.031.198-1\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Services regarding management consulting\n                  ",
+    "Status": "active",
+    "Adress": "c/o Arno Andreas SchmidtSchlossbergstrasse 106312 Steinhausen\n                                  "
+  },
+  {
+    "CompanyName": "PATIO ALTO SA, en liquidation",
+    "RegisterNumber": "Register number: CH-660.1.053.009-6\n                  ",
+    "LegalForm": "Legal form: Company limited by shares (AG)",
+    "Sector": "Sector: Operation of other financial institutions\n                  ",
+    "Status": "in liquidation",
+    "Adress": "c/o Me Olivier Metzger, Canonica Valticos de Preux & AssociéRue Pierre-Fatio 151204 Genève\n                                  "
+  },
+  {
+    "CompanyName": "Langenberg GmbH in Liquidation",
+    "RegisterNumber": "Register number: CH-320.4.086.755-0\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Trading in food products\n                  ",
+    "Status": "in liquidation",
+    "Adress": "Feldeggstrasse 59470 Buchs SG\n                                  "
+  },
+  {
+    "CompanyName": "Sagea Consulting Sagl in liquidazione",
+    "RegisterNumber": "Register number: CH-524.4.008.378-4\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Trading with machines\n                  ",
+    "Status": "in liquidation",
+    "Adress": "Via Giorgio Bernasconi 66850 Mendrisio\n                                  "
+  },
+  {
+    "CompanyName": "Cavadini Giardini Sagl in liquidazione",
+    "RegisterNumber": "Register number: CH-501.4.021.005-0\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Gardening and landscaping\n                  ",
+    "Status": "in liquidation",
+    "Adress": "Via Corte 236963 Pregassona\n                                  "
+  },
+  {
+    "CompanyName": "Meta-Invest Sagl in liquidazione",
+    "RegisterNumber": "Register number: CH-501.4.020.349-9\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Trading with various goods\n                  ",
+    "Status": "in liquidation",
+    "Adress": "c/o Revigeco SAPiazzetta San Carlo 26900 Lugano\n                                  "
+  },
+  {
+    "CompanyName": "T.A.I.S.A Ticino Ambiente Immobiliare SA in liquidazione",
+    "RegisterNumber": "Register number: CH-514.3.025.389-9\n                  ",
+    "LegalForm": "Legal form: Company limited by shares (AG)",
+    "Sector": "Sector: Management of real estate portfolio properties\n                  ",
+    "Status": "in liquidation",
+    "Adress": "c/o Alba Advisors SAVia Cantonale 156815 Melide\n                                  "
+  },
+  {
+    "CompanyName": "Shanfari SA, en liquidation",
+    "RegisterNumber": "Register number: CH-170.3.030.386-4\n                  ",
+    "LegalForm": "Legal form: Company limited by shares (AG)",
+    "Sector": "Sector: Trading with machines\n                  ",
+    "Status": "in liquidation",
+    "Adress": "Rue de Villereuse 221207 Genève\n                                  "
+  },
+  {
+    "CompanyName": "Brunner Hubert, Max Music-Bar/Lounge",
+    "RegisterNumber": "Register number: CH-100.1.788.902-4\n                  ",
+    "LegalForm": "Legal form: Sole proprietorship",
+    "Sector": "Sector: Operation of restaurants\n                  ",
+    "Status": "deleted",
+    "Adress": "Eichweid 36203 Sempach Station\n                                  "
+  },
+  {
+    "CompanyName": "SIV AG in Liquidation",
+    "RegisterNumber": "Register number: CH-170.3.031.920-9\n                  ",
+    "LegalForm": "Legal form: Company limited by shares (AG)",
+    "Sector": "Sector: Security services with alarm and monitoring systems\n                  ",
+    "Status": "deleted",
+    "Adress": "c/o Breves Treuhand AG Zweigniederlassung BaarZugerstrasse 726340 Baar\n                                  "
+  },
+  {
+    "CompanyName": "Baukeramik Berce",
+    "RegisterNumber": "Register number: CH-036.1.063.078-3\n                  ",
+    "LegalForm": "Legal form: Sole proprietorship",
+    "Sector": "Sector: Other construction\n                  ",
+    "Status": "deleted",
+    "Adress": "c/o Küng TreuhandRainliweg 53532 Zäziwil\n                                  "
+  },
+  {
+    "CompanyName": "Morépont S.A.",
+    "RegisterNumber": "Register number: CH-670.3.000.368-4\n                  ",
+    "LegalForm": "Legal form: Company limited by shares (AG)",
+    "Sector": "Sector: Management of real estate portfolio properties\n                  ",
+    "Status": "deleted",
+    "Adress": "c/o Juraimmobilier SARue de l'Avenir 122800 Delémont\n                                  "
+  },
+  {
+    "CompanyName": "Prolease Sàrl, en liquidation",
+    "RegisterNumber": "Register number: CH-660.0.890.999-8\n                  ",
+    "LegalForm": "Legal form: Limited liability company",
+    "Sector": "Sector: Trading with various goods\n                  ",
+    "Status": "deleted",
+    "Adress": "c/o EUREX GE SARue de Genève 181225 Chêne-Bourg\n                                  "
+  },
+  {
+    "CompanyName": "Oliviero Piffaretti architetto",
+    "RegisterNumber": "Register number: CH-501.1.016.494-6\n                  ",
+    "LegalForm": "Legal form: Sole proprietorship",
+    "Sector": "Sector: Architectural and engineering activities\n                  ",
+    "Status": "deleted",
+    "Adress": "Via Giuseppe Andreoni 206850 Mendrisio\n                                  "
+  },
+  {
+    "CompanyName": "RS Plâtrerie-Peinture Romain Schwab",
+    "RegisterNumber": "Register number: CH-550.1.184.147-9\n                  ",
+    "LegalForm": "Legal form: Sole proprietorship",
+    "Sector": "Sector: Other construction\n                  ",
+    "Status": "deleted",
+    "Adress": "Rue des Vergers 211462 Yvonand\n                                  "
+  },
+  {
+    "CompanyName": "Raisin Invest S.A. en liquidation",
+    "RegisterNumber": "Register number: CH-550.0.051.893-5\n                  ",
+    "LegalForm": "Legal form: Company limited by shares (AG)",
+    "Sector": "Sector: Management of real estate portfolio properties\n                  ",
+    "Status": "deleted",
+    "Adress": "c/o Diwan Consult SàrlGrand-Rue 461820 Montreux\n                                  "
+  }
+]

@@ -1,0 +1,51 @@
+<?php
+/*
+Template Name: Reporting Service
+*/
+
+get_header(); 
+
+if ( true === apply_filters( 'graduate_filter_frontpage_content_enable', true ) ) : ?>
+	<!DOCTYPE html>
+
+<div class="container page-section">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main" role="main">
+<?php
+
+error_reporting(0);
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+include_once("tcpdf.php");
+include_once("PHPJasperXML.inc.php");
+
+
+$server = "localhost";
+$user = "root";
+$pass = "";
+$db = "acredius";
+
+$xml =  simplexml_load_file("Report1.pdf");
+
+
+$PHPJasperXML = new PHPJasperXML();
+//$PHPJasperXML->debugsql=true;
+$PHPJasperXML->arrayParameter=array("parameter1"=>1);
+$PHPJasperXML->xml_dismantle($xml);
+
+$PHPJasperXML->transferDBtoArray($server,$user,$pass,$db);
+$PHPJasperXML->outpage("I");    //page output method I:standard output  D:Download file
+
+
+?>
+
+		   
+	 </center>
+	 </body>
+	 </html>
+
+<?php
+endif;
+
